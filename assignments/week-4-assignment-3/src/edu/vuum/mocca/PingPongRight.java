@@ -87,7 +87,7 @@ public class PingPongRight {
              */
 
             // TODO - You fill in here.
-        	for (mMaxLoopIterations =1 ; 
+        	for (mMaxLoopIterations = 1 ; 
         		 mMaxLoopIterations <= mMaxIterations;
         		 mMaxLoopIterations++){
         		acquire();
